@@ -6,4 +6,7 @@ We are starting by preprocessing the data using techniques like outlier detectio
 scaling and handling imbalance. Then we are applying variety of classification algorithms and comparing them
 to select top 3 algorithms. We will be tuning the hyperparameters of top algorithms and calculating the score.
 Further, we have chosen, handling imbalance data as our research area to understand alternative ways to deal
-with it.
+with it like Smote techniques - KMeans Smotes, Borderline Smote, etc
+<br>
+The report for the project is written in the form of research paper to understand the flow of research in 
+ML and for ease of reading to reader.
